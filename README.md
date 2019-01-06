@@ -1,5 +1,5 @@
 # reprofile
-**Ensure you are _not_ logged in as the target profile before continuing**
+**Ensure you are _not_ logged in as the target profile before executing the script**
 
 | Command | Description |
 | --- | --- |
