@@ -7,4 +7,4 @@ Originally created to assist desktop analysts in removing corrupt user profiles 
 | Command | Description |
 | --- | --- |
 | `$Destination` | Set the profile backup path |
-| `$ComputerName` | Set the host path (By default reprofile will use $env:computername |
+| `$ComputerName` | Set the host path (By default reprofile will use $env:computername) |
